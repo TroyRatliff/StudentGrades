@@ -1,0 +1,14 @@
+c:\Users\Troy3\Documents\Projects\StudentGrades\Grades\bin\Debug\net9.0\Grades.exe
+c:\Users\Troy3\Documents\Projects\StudentGrades\Grades\bin\Debug\net9.0\Grades.deps.json
+c:\Users\Troy3\Documents\Projects\StudentGrades\Grades\bin\Debug\net9.0\Grades.runtimeconfig.json
+c:\Users\Troy3\Documents\Projects\StudentGrades\Grades\bin\Debug\net9.0\Grades.dll
+c:\Users\Troy3\Documents\Projects\StudentGrades\Grades\bin\Debug\net9.0\Grades.pdb
+c:\Users\Troy3\Documents\Projects\StudentGrades\Grades\obj\Debug\net9.0\Grades.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Troy3\Documents\Projects\StudentGrades\Grades\obj\Debug\net9.0\Grades.AssemblyInfoInputs.cache
+c:\Users\Troy3\Documents\Projects\StudentGrades\Grades\obj\Debug\net9.0\Grades.AssemblyInfo.cs
+c:\Users\Troy3\Documents\Projects\StudentGrades\Grades\obj\Debug\net9.0\Grades.csproj.CoreCompileInputs.cache
+c:\Users\Troy3\Documents\Projects\StudentGrades\Grades\obj\Debug\net9.0\Grades.dll
+c:\Users\Troy3\Documents\Projects\StudentGrades\Grades\obj\Debug\net9.0\refint\Grades.dll
+c:\Users\Troy3\Documents\Projects\StudentGrades\Grades\obj\Debug\net9.0\Grades.pdb
+c:\Users\Troy3\Documents\Projects\StudentGrades\Grades\obj\Debug\net9.0\Grades.genruntimeconfig.cache
+c:\Users\Troy3\Documents\Projects\StudentGrades\Grades\obj\Debug\net9.0\ref\Grades.dll
